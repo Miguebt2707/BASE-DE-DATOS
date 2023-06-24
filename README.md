@@ -8,18 +8,23 @@ LO QUE SE RALIZO EN ESTA PRACTICA FUE EL PODER HACER COINCIDIR NUESTRAS LECTURAS
 - TARJETA ESP32
 - SENSOR DTH22
 - SENSOR ULTRASONICO (HC-SR-04)  
+EN ESTA PARTE SE MUESTRA LA CONEXION QUE SE HIZO 
 
-![](https://github.com/Miguebt2707/LED-CON-NODE-RED/blob/main/CONX.png?raw=true)
+![](https://github.com/Miguebt2707/BASE-DE-DATOS/blob/main/LIBRERIAS.png?raw=true)
 
-![](https://github.com/Miguebt2707/LED-CON-NODE-RED/blob/main/NODE-RED.png?raw=true)
+![](https://github.com/Miguebt2707/BASE-DE-DATOS/blob/main/SENS1.png?raw=true)
 
-![](https://github.com/Miguebt2707/LED-CON-NODE-RED/blob/main/NODE-RED-ENCENDER%20LED.png?raw=true)
+![](https://github.com/Miguebt2707/BASE-DE-DATOS/blob/main/SENS2.png?raw=true)
 
-![](https://github.com/Miguebt2707/LED-CON-NODE-RED/blob/main/NODE-RED%20MIGUELON.png?raw=true)
+![](https://github.com/Miguebt2707/BASE-DE-DATOS/blob/main/NODERED-DIAGRAMA%20GEN.png?raw=true)
 
-![](https://github.com/Miguebt2707/LED-CON-NODE-RED/blob/main/LED-APAGADO-SIMULACION.png?raw=true)
+![](https://github.com/Miguebt2707/BASE-DE-DATOS/blob/main/FUNCTION5.png?raw=true)
 
-![](https://github.com/Miguebt2707/LED-CON-NODE-RED/blob/main/LED-ENCENDIDO-SIMULACION.png?raw=true)
+![](https://github.com/Miguebt2707/BASE-DE-DATOS/blob/main/DIPLOMADO1.png?raw=true)
+
+![](https://github.com/Miguebt2707/BASE-DE-DATOS/blob/main/GEEEEN.png?raw=true)
+
+![](https://github.com/Miguebt2707/BASE-DE-DATOS/blob/main/GRAFICOS.png?raw=true)
 
 
 
